@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: grey;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: serif;
+}
+
+.dicee {
+  display: inline-block;
+  font-size: 3rem;
+  font-family: sans-serif;
+  padding: 50px;
+  padding-top: 20px;
+}
